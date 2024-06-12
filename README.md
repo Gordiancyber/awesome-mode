@@ -309,4 +309,13 @@ Visit their official website (usually found in the search results) and look for 
     - The game-changing wallet for Ethereum and all EVM chains by @DeBankDeFi.
 - **[TokenPocket](https://www.tokenpocket.pro/)**
     - The world's leading multi-chain self-custodial wallet.
-  
+
+  ## Contributions
+
+If you have something you'd like to add, please open a pull request and ensure
+it matches the format + ordering (alphanumerical) of the existing entries. Links
+that are inactive, outdated, or no longer relevant may be removed at any time.
+
+## License
+
+[MIT License](LICENSE)
