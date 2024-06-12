@@ -61,12 +61,124 @@ Visit their official website (usually found in the search results) and look for 
 ## DeFi
 
 * **[0x](https://0x.org/)**
-    * Your one-stop shop to build financial products on crypto rails. Enable faster trading, better prices, and superior user experiences within your application.
+    * Your one-stop shop to build financial products on crypto rails. Enable faster trading, better prices, and superior liquidity through 0x's open infrastructure.
 * **[Aave](https://aave.com/)**
-    * Aave Protocol is a non-custodial liquidity protocol where users can participate as suppliers, borrowers, or liquidators, earning interest on deposited assets and borrowing crypto assets in an overcollateralized manner.
-* **[Ankr](https://www.ankr.com/)**
-    * Build on Web3 with a fast, reliable, and distributed network of blockchain nodes.
-* **[Balancer](https://balancer.fi/)**
-    * A decentralized automated market maker (AMM) protocol built on Ethereum, providing a flexible building block for programmable liquidity.
+    * A non-custodial liquidity protocol for users to earn interest on deposits and borrow assets.
+* **[Airpuff](https://www.airpuff.io/)**
+    * Airpuff emerges as the leading one-stop solution for airdrop leveraging.
+* **[Aori](https://aori.finance/)**
+    * Build institutional-grade DeFi applications for decentralized options trading, spot trading, and OTC settlement.
+* **[Astaria](https://www.astaria.xyz/)**
+    * Astaria allows permissionless leverage for any asset.
+* **[Atlendis](https://atlendis.io/)**
+    * First RWA lending protocol.
+* **[Bebop](https://www.bebop.xyz/)**
+    * A trading app and suite of APIs that find the best route for your trades.
 * **[Beefy](https://app.beefy.com/)**
-    * Automates yield farming to make DeFi easy, safe, and more profitable.
+    * Automates yield farming to make DeFi easy, safe, and efficient for all.
+* **[Brahma](https://www.brahma.fi/)**
+    * A programmable interaction layer for the EVM.
+* **[Dackieswap](https://dackieswap.com/)**
+    * The premier user-friendly multi-chain DEX.
+* **[Davos Protocol](https://davos.xyz/)**
+    * A CDP protocol using LSTs and LRTs as collateral to mint the omnichain stablecoin DUSD.
+* **[DeFiLlama](https://defillama.com/)**
+    * Analytics tracker.
+* **[Dexilla](https://dexilla.finance/)**
+    * The secure orderbook DEX simplifying cryptocurrency trading.
+* **[Ebisu](https://www.ebisufinance.com/)**
+    * Allows users to borrow dollar-denominated credit against liquid restaking tokens via a decentralized stablecoin - eBUSD.
+* **[Eisen](https://eisenfinance.com/)**
+    * Ce-DeFi hybrid leverage trading platform.
+* **[Ether.Fi](https://ether.fi/)**
+    * A decentralized, non-custodial delegated restaking protocol with a liquid restaking token.
+* **[Fjord Foundry](https://www.fjordfoundry.com/)**
+    * Decentralized liquidity bootstrapping and token launchpad venue.
+* **[Holyheld](https://holyheld.com/)**
+    * Cash account with debit card and personal IBAN controlled from any self-custody wallet.
+* **[Houdini Swap](https://houdiniswap.com/)**
+    * The leading private, compliant, non-custodial, cross-chain liquidity aggregator in Web3.
+* **[InceptionLRT](https://inceptionlrt.io/)**
+    * An omnicChain restaking protocol on Eigenlayer offering both isolated and native restaking to users.
+* **[Ionic](https://ionicprotocol.com/)**
+    * A decentralized non-custodial money market protocol with the best interest rates on Mode Network.
+* **[Ironclad](https://ironclad.finance/)**
+    * Next-gen lending platform from one of the most experienced DeFi teams in the industry.
+* **[Kim](https://kim.exchange/)**
+    * A flagship DEX natively built on Mode for superb trading experiences.
+* **[Layerbank](https://layerbank.finance/)**
+    * A universal permissionless on-chain bank.
+* **[LogX](https://logx.trade/)**
+    * Perpetuals trading exchange with the deepest liquidity.
+* **[Molend](https://molend.finance/)**
+    * A decentralized, non-custodial liquidity market protocol deployed on Mode Network.
+* **[Molten](https://molten.finance/)**
+    * Aggregator of everything.
+* **[Mystra](https://mystra.finance/)**
+    * A complex solution for increasing protocols'
+ 
+## Gaming
+- **BetMode**
+    - Decentralized on-chain gaming.
+- **Macaw**
+    - Decentralized mobile-first on-chain casino.
+- **Rollspace**
+    - Space for gamers to play on-chain games in PVP mode and earn crypto.
+
+## Infrastructure
+- **Blockscout**
+    - A blockchain explorer for Ethereum and other chains.
+- **Nomis Protocol**
+    - A reputation protocol converting users' on-chain activity into a reputation score for the wallet.
+- **Superchain Safe**
+    - Trusted Gnosis (Safe) fork, supports Mode Network and OP chains.
+- **[USDC](https://www.circle.com/en/usdc)**
+    - A regulated digital currency that can always be redeemed 1:1 for US dollars.
+- **[USDT](https://tether.to/)**
+    - Tether tokens are pegged at 1-to-1 with a matching fiat currency.
+
+## NFTs
+- **Element NFT Marketplace**
+    - The biggest NFT marketplace and aggregator supporting most chains.
+- **NFTs2Me**
+    - A multichain user-friendly comprehensive platform to create, deploy, and manage your NFT collection for free.
+
+## Social
+- **[Lens Protocol](https://lens.dev/)**
+    - A decentralized social graph.
+- **ModeChat**
+    - Decentralized social network built on Mode.
+
+## Tools
+- **Galxe**
+    - The leading platform for building Web3 communities.
+- **Growthepie.xyz**
+    - Usage analytics for Ethereum scaling solutions.
+- **Intract**
+    - A Web3 growth platform to help educate new users and build campaigns for projects.
+- **Jokerace**
+    - The best way for communities to make, execute, and reward decisions.
+- **Lore**
+    - AI-powered search, explorer, and analytics suite curated for developers, analysts, and new on-chain users.
+- **Routescan**
+    - EVMs block explorers platform.
+- **[Snapshot](https://snapshot.org/)**
+    - An off-chain gasless multi-governance client built on Ethereum.
+
+## Wallets
+- **[Argent](https://www.argent.xyz/)**
+    - A smart wallet for DeFi and NFTs. 
+- **[Exodus](https://www.exodus.com/)**
+    - Secure crypto wallet for Windows, macOS, Linux, iOS, and Android.
+- **Kado Money (Coming Soon)**
+    - A fiat to crypto on/off ramp platform for easy onboarding to DeFi and direct to self-custody.
+- **[Metamask](https://metamask.io/)**
+    - Ethereum-based web browser extension wallet and gateway to decentralized apps. 
+- **NewMoney**
+    - A digital cash and crypto wallet powered by AI.
+- **[OKX](https://www.okx.com/)**
+    - All-in-one portal to Web3. 
+- **Rabby**
+    - The game-changing wallet for Ethereum and all EVM chains by @DeBankDeFi.
+- **[TokenPocket](https://www.tokenpocket.pro/)**
+    - The world's leading multi-chain self-custodial wallet.
