@@ -19,7 +19,134 @@ and more.
 + [Mode Community Hub](https://modenetwork.notion.site/)
 + [Mode Telegram](https://t.me/ModeNetworkOfficial)
 + [Mode X](https://x.com/mode_network)
+
   
+## Developer Tools
+### 🖥️ RPC
+- **Public RPC (Archival node)**
+    - Our public RPC is a full archive node and should be enough for most use cases:
+        - RPC Endpoint: [https://mainnet.mode.network/](https://mainnet.mode.network/)
+- **Tenderly**
+    - Tenderly Node is a fast and reliable production node that enables access to over 12 blockchain networks via RPC. It allows you to send transactions, deploy smart contracts, query blockchain data or other operations without having to run your own node or manage infrastructure.
+        - More info: [https://docs.tenderly.co/node/rpc-reference/mode#radix-:Rcu9m:](https://docs.tenderly.co/node/rpc-reference/mode#radix-:Rcu9m:)
+- **Blast API - Decentralized Web3 Infra (Archival node)**
+    - Solving Web3 reliability and performance issues by efficiently employing the resources of hundreds of third-party node providers combined with a state-of-the-art decentralized blockchain API platform and an improved user experience.
+        - RPC Endpoint: [https://blastapi.io/chains/mode](https://blastapi.io/chains/mode)
+- **1RPC**
+    - Automata now supports Mode mainnet via their 1RPC, introducing an extra layer of security by protecting some metadata from being shared to interact with RPCs in a more private way. 
+        - RPC Endpoint: [https://1rpc.io/mode](https://1rpc.io/mode)
+- **dRPC**
+    - dRPC is a decentralized RPC network that enhances security, reliability, and cost-efficiency for Web3 companies of all sizes. We are building the most reliable and cost-efficient Data providing solution via a decentralized platform.
+        - RPC Endpoint: [https://mode.drpc.org](https://mode.drpc.org)
+
+### 🪶 Multisig wallets
+- **Safe**
+    - As part of the Superchain, the team of Protofire has deployed Safe (ex Gnosis) on Mode: 
+        - [https://safe.optimism.io/welcome](https://safe.optimism.io/welcome)
+- **BRAHMA**
+    - Get seamless DeFi execution with Console on Mode and earn a 2x Mode points boost. Enjoy fast position management, automation, and secure dApp connectivity tailored for Mode users.
+        - [https://www.brahma.fi/mode](https://www.brahma.fi/mode)
+
+### 🔁 Bridge
+- **Mode Mainnet Bridge**
+    - You can use the Mode bridge to deposit and withdraw from Ethereum to Mode.
+        - Access the Mode Mainnet Bridge [here](https://mode-bridge.mainnet/)
+- **Mode Testnet Bridge**
+    - You can use the Mode bridge to deposit and withdraw ETH from Ethereum Sepolia to the Mode Sepolia Testnet.
+        - Access the Mode Testnet Bridge [here](https://mode-bridge.testnet/)
+
+### 🚰 Testnet Faucets
+- **Mode Testnet ETH**
+    - **Superchain Faucet**
+        - The Superchain Faucet provides testnet ETH for all OP Chains, including Mode.
+    - **Automata L2Faucet**
+        - Attest to get Mode ETH tokens directly on Mode Sepolia faucet without bridging.
+    - **Aori Faucet**
+        - Fund your wallet with testnet gas and Aori's testnet tokens $YIN & $YANG on your choice of testnets. Authenticate with your wallet for a drip every 8 hours.
+    - **Alchemy's Sepolia Faucet**
+        - You can request 0.5 ETH from this faucet every 24 hours. Email sign-up is required to use this faucet. You do not need Mainnet ETH.
+    - **QuickNode Sepolia Faucet**
+        - You can request Sepolia ETH quickly by connecting your wallet. You must hold 0.01 ETH on Mainnet to use this faucet and can get 2x the ETH if you share a tweet.
+
+### 🕵️ Block Explorers
+- **ModeScan**
+    - This explorer was built by the superScan team.
+        - Mainnet explorer: [https://modescan.io/](https://modescan.io/)
+- **Blockscout**
+    - A Blockscout explorer is available for Mode Sepolia. Blockscout provides tools to help you debug smart contracts and transactions:
+        - Mainnet explorer: [Mainnet Blockscout](https://blockscout.com/mode/mainnet)
+        - Testnet explorer: [Sepolia Blockscout](https://blockscout.com/mode/sepolia)
+
+### 🗂️ Data Indexers
+- **Goldsky**
+    - Goldsky offers two core self-serve products that can be used independently or in conjunction to power your data stack. 
+        - Deploy a subgraph: [https://docs.goldsky.com/subgraphs/deploying-subgraphs](https://docs.goldsky.com/subgraphs/deploying-subgraphs)
+- **The Graph**
+    - The Graph is a decentralized protocol for indexing and querying blockchain data.
+        - Deploy a subgraph: [https://thegraph.com/studio/](https://thegraph.com/studio/)
+- **Covalent**
+    - Covalent is a blockchain data service that offers access to both current and historical on-chain information over a range of more than 100 blockchains, including Mode.
+        - More info: [https://www.covalenthq.com/docs/networks/mode/](https://www.covalenthq.com/docs/networks/mode/)
+- **Unmarshal**
+    - Unmarshal is a Decentralized network of blockchain data indexers and transforming tools.
+        - Docs: [https://docs.unmarshal.io/reference/introduction](https://docs.unmarshal.io/reference/introduction)
+
+### 🧙‍♂️ Oracles
+- **API3**
+    - The API3 Market provides access to 200+ price feeds on Mode Mainnet and Testnet. The price feeds operate as a native push oracle and can be activated instantly via the Market UI.
+        - More info: [API3 Market](https://market.api3.org/)
+- **Pyth**
+    - Pyth is an oracle for real-time blockchain data such as price feeds and historical market data.
+        - Oracle address on Mode Mainnet: [https://explorer.mode.network/address/0xA2aa501b19aff244D90cc15a4Cf739D2725B5729](https://explorer.mode.network/address/0xA2aa501b19aff244D90cc15a4Cf739D2725B5729)
+        - Price feed on Testnet: [https://sepolia.explorer.mode.network/address/0xA2aa501b19aff244D90cc15a4Cf739D2725B5729](https://sepolia.explorer.mode.network/address/0xA2aa501b19aff244D90cc15a4Cf739D2725B5729)
+- **Redstone**
+    - RedStone enforces design with independent and robust modules. Signed data packages are broadcasted to DDL and archived on Arweave. Consumers can use data feeds in Pull, Push, and X models.
+        - Price feeds on Mode mainnet: [https://docs.redstone.finance/docs/smart-contract-devs/price-feeds](https://docs.redstone.finance/docs/smart-contract-devs/price-feeds)
+- **Supra**
+    - Supra is a novel, high-throughput Oracle & IntraLayer: A vertically integrated toolkit of cross-chain solutions (data oracles, asset bridges, automation network, and more) that interlink all blockchains.
+        - Pull Oracle address on Mode Mainnet: [https://explorer.mode.network/address/0x2FA6DbFe4291136Cf272E1A3294362b6651e8517?tab=contract](https://explorer.mode.network/address/0x2FA6DbFe4291136Cf272E1A3294362b6651e8517?tab=contract)
+
+### ⛓️ Interoperability
+- **LayerZero**
+    - LayerZero is an interoperability protocol that connects blockchains, allowing developers to build seamless omnichain applications, tokens, and experiences.
+        - More info: [https://layerzero.network/](https://layerzero.network/)
+
+### ⁉️ Randomness
+- **Gelato**
+    - Gelato VRF (Verifiable Random Function) - a tool designed to provide robust randomness with inherent verifiability.
+        - More info: [https://docs.gelato.network/web3-services/vrf](https://docs.gelato.network/web3-services/vrf)
+
+### 🌎 General Tooling
+- **Tenderly**
+    - Tenderly offers a wide range of dev tooling ranging from simulation APIs to RPC and more.
+        - More info: [https://docs.tenderly.co/products](https://docs.tenderly.co/products)
+- **Particle Network**
+    - Particle Network provides AA-powered social logins on Mode Network, supercharging user experience through two-click onboarding.
+        - More info: [https://docs.particle.network/](https://docs.particle.network/)
+- **ThirdWeb**
+    - Frontend, backend, and onchain tools to build complete web3 apps — on every EVM chain.
+        - More info: [https://portal.thirdweb.com/](https://portal.thirdweb.com/)
+
+### ⌨️ Node Operators
+- **Running the node**
+    - If you want to run a node for Mode you can follow these instructions:
+        - [https://github.com/mode-network/rollup-node](https://github.com/mode-network/rollup-node)
+
+    - Snapshots will help you save time while synching your node to Mode.
+        - Mainnet
+            - Latest: [Tuesday 5th June 2024](https://storage.googleapis.com/conduit-networks-snapshots/mode/mainnet/2024-06-04.tar)
+        - Testnet
+            - Latest: [Mode Sepolia Testnet](https://storage.cloud.google.com/conduit-networks-snapshots/mode/sepolia/latest.tar.gz)
+        - Additional info: [Optimism Fjord Hard Fork](https://github.com/ethereum-optimism/specs/blob/main/specs/fjord/overview.md)
+            - Activated on Sepolia testnet: Wednesday, May 29th, 16:00 UTC
+            - Ecotone upgrade for OP Sepolia activated: February 21, 2024, at 17:00:00 UTC
+            - Ecotone OP Mainnet upgrade: March 14, 2024, pending governance approval
+
+- **Ecotone Upgrade (Dencun + EIP-4844)**
+    - The Ecotone upgrade contains the Dencun upgrade from L1 and adopts EIP-4844 blobs for data-availability. 
+    - More info: [Ecotone Changes](https://docs.optimism.io/builders/notices/ecotone-changes)
+    - You need L1 beacon API access for op-node and pass via --l1.beacon param (or OP_NODE_L1_BEACON env). 
+    - Consider having full-archive blobs access. If you are on the superchain, you don't have to pass any new parameter.
 
 For each project listed below, search for the project name on a search engine like Google or DuckDuckGo. 
 Visit their official website (usually found in the search results) and look for links to their social media profiles (Twitter, Telegram, etc.) and Discord server (if they have one) in the footer or navigation menu.
@@ -182,3 +309,4 @@ Visit their official website (usually found in the search results) and look for 
     - The game-changing wallet for Ethereum and all EVM chains by @DeBankDeFi.
 - **[TokenPocket](https://www.tokenpocket.pro/)**
     - The world's leading multi-chain self-custodial wallet.
+  
