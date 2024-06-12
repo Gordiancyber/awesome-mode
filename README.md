@@ -68,7 +68,7 @@ and more.
     - **QuickNode Sepolia Faucet**
         - You can request Sepolia ETH quickly by connecting your wallet. You must hold 0.01 ETH on Mainnet to use this faucet and can get 2x the ETH if you share a tweet.
 
-### 🕵️ Block Explorers
+###  Block Explorers
 - **ModeScan**
     - This explorer was built by the superScan team.
         - Mainnet explorer: [https://modescan.io/](https://modescan.io/)
@@ -132,15 +132,6 @@ and more.
     - If you want to run a node for Mode you can follow these instructions:
         - [https://github.com/mode-network/rollup-node](https://github.com/mode-network/rollup-node)
 
-    - Snapshots will help you save time while synching your node to Mode.
-        - Mainnet
-            - Latest: [Tuesday 5th June 2024](https://storage.googleapis.com/conduit-networks-snapshots/mode/mainnet/2024-06-04.tar)
-        - Testnet
-            - Latest: [Mode Sepolia Testnet](https://storage.cloud.google.com/conduit-networks-snapshots/mode/sepolia/latest.tar.gz)
-        - Additional info: [Optimism Fjord Hard Fork](https://github.com/ethereum-optimism/specs/blob/main/specs/fjord/overview.md)
-            - Activated on Sepolia testnet: Wednesday, May 29th, 16:00 UTC
-            - Ecotone upgrade for OP Sepolia activated: February 21, 2024, at 17:00:00 UTC
-            - Ecotone OP Mainnet upgrade: March 14, 2024, pending governance approval
 
 - **Ecotone Upgrade (Dencun + EIP-4844)**
     - The Ecotone upgrade contains the Dencun upgrade from L1 and adopts EIP-4844 blobs for data-availability. 
@@ -176,7 +167,7 @@ Visit their official website (usually found in the search results) and look for 
 * **[deBridge](https://debridge.finance/)**
     * Infrastructure for high-performance interoperability, eliminating liquidity pool bottlenecks and enabling DeFi applications to scale faster with ultra-capital-efficient and deep liquidity transfers across chains.
 
-## DAOs
+## DAOs (Decentralized Autonomous Organizations)
 
 * **[Aragon Project](https://aragon.org/)**
     * Builds flexible and secure tools for anyone to launch and manage Decentralized Autonomous Organizations (DAOs). Since 2016, Aragon has powered the creation of over 6,000 DAOs, securing over $13 billion in value for leading projects.
@@ -185,7 +176,7 @@ Visit their official website (usually found in the search results) and look for 
 * **[XDAO](https://www.xdao.app/)**
     * A versatile toolset empowering individuals and teams to effortlessly create and manage their own DAOs.
 
-## DeFi
+## DeFi (Decentralized Finance)
 
 * **[0x](https://0x.org/)**
     * Your one-stop shop to build financial products on crypto rails. Enable faster trading, better prices, and superior liquidity through 0x's open infrastructure.
@@ -264,13 +255,13 @@ Visit their official website (usually found in the search results) and look for 
 - **[USDT](https://tether.to/)**
     - Tether tokens are pegged at 1-to-1 with a matching fiat currency.
 
-## NFTs
+## NFTs(Non-fungible Tokens)
 - **Element NFT Marketplace**
     - The biggest NFT marketplace and aggregator supporting most chains.
 - **NFTs2Me**
     - A multichain user-friendly comprehensive platform to create, deploy, and manage your NFT collection for free.
 
-## Social
+## Social-Fi
 - **[Lens Protocol](https://lens.dev/)**
     - A decentralized social graph.
 - **ModeChat**
