@@ -50,11 +50,10 @@ and more.
 ### 🔁 Bridge
 - **Mode Mainnet Bridge**
     - You can use the Mode bridge to deposit and withdraw from Ethereum to Mode.
-        - Access the Mode Mainnet Bridge [here](https://mode-bridge.mainnet/)
+        - Access the Mode Mainnet Bridge [here](https://bridge.mode.network/)
 - **Mode Testnet Bridge**
     - You can use the Mode bridge to deposit and withdraw ETH from Ethereum Sepolia to the Mode Sepolia Testnet.
-        - Access the Mode Testnet Bridge [here](https://mode-bridge.testnet/)
-
+        - Access the Mode Testnet Bridge [here](https://sepolia-bridge.mode.network/) 
 ### 🚰 Testnet Faucets
 - **Mode Testnet ETH**
     - **Superchain Faucet**
