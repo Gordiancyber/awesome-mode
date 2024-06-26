@@ -73,8 +73,8 @@ and more.
         - Mainnet explorer: [https://modescan.io/](https://modescan.io/)
 - **Blockscout**
     - A Blockscout explorer is available for Mode Sepolia. Blockscout provides tools to help you debug smart contracts and transactions:
-        - Mainnet explorer: [Mainnet Blockscout](https://blockscout.com/mode/mainnet)
-        - Testnet explorer: [Sepolia Blockscout](https://blockscout.com/mode/sepolia)
+        - Mainnet explorer: [Mainnet Blockscout](https://explorer.mode.network)
+        - Testnet explorer: [Sepolia Blockscout](https://sepolia.explorer.mode.network)
 
 ### 🗂️ Data Indexers
 - **Goldsky**
