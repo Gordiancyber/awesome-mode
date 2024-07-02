@@ -306,6 +306,8 @@ If you have something you'd like to add, please open a pull request and ensure
 it matches the format + ordering (alphanumerical) of the existing entries. Links
 that are inactive, outdated, or no longer relevant may be removed at any time.
 
+Check  [ Contribution Guide Here
+](https://github.com/Gordiancyber/awesome-mode/blob/main/Contribution.md)
 ## License
 
 [MIT License](LICENSE)
