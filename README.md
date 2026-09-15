@@ -280,6 +280,8 @@ Visit their official website (usually found in the search results) and look for 
 - **Routescan**
     - EVMs block explorers platform.
 - **[Snapshot](https://snapshot.org/)**
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner for Solana and EVM tokens: A+–F grades from on-chain checks, keyless REST API, hosted MCP server.
+
     - An off-chain gasless multi-governance client built on Ethereum.
 
 ## Wallets
